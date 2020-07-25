@@ -27,3 +27,22 @@
     font-size: 4rem;
     margin-bottom: -3rem;
 }
+/*ABOUT US */
+#aboutus h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    text-align: center;
+    font-size: 10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#aboutus span {
+    font-weight: bolder;
+}
