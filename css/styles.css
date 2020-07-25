@@ -46,3 +46,15 @@ p {
 #aboutus span {
     font-weight: bolder;
 }
+  /*SERVICES*/
+  .services {
+      background-image: url(./images/keyboard.jpg);
+      height: 300px;
+      color: rgb(34, 25, 25);
+  }
+
+  #service {
+      position: relative;
+      text-align: center;
+      top: 48px;
+  }
