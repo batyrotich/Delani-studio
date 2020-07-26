@@ -81,6 +81,15 @@ font-size: 30px;
 .imagehover.hover{
     opacity: 0.3;
 }
+
+/*contact us*/
+
+.contacts{
+    background-image: url("/images/backgrounds/c_image.jpg");
+    height: 60vh;
+}
+
+/*footer */
 .footer{
     justify-content: center;
     align-items: center;
