@@ -1,32 +1,19 @@
-.image1 {
-    border-radius: 50px;
-    box-sizing: 3px;
-}
 
-#showcase {
-    background: url(./images/lap11.jpeg) no-repeat center center/cover;
-    height: 87.8vh;
+#home{
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-attachment: fixed;
 }
-
-.showcase-content {
-    display: flex;
-    flex-direction: column;
+#home_text {
     text-align: center;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    top: 1px;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: url(./images/stairs.jpg) no-repeat center center/cover;
-    color: #fff;
+    color: white;
+    margin-top: 400px;
+    background-attachment: fixed;
+}
+#mouse {
+    text-align: center;
+    padding: 100px;
 }
 
-.showcase-content h1 {
-    font-size: 4rem;
-    margin-bottom: -3rem;
-}
 /*ABOUT US */
 #aboutus h2 {
     font-size: 35px;
@@ -48,7 +35,7 @@ p {
 }
   /*SERVICES*/
   .services {
-      background-image: url(../images/keyboard.jpg);
+      background-image: url(../images/backgrounds/s_image.jpg);
       height: 300px;
       color: rgb(34, 25, 25);
   }
