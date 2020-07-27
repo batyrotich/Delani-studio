@@ -1,15 +1,18 @@
 
-#home{
+.home {
+    height: auto;
+    width: auto;
     background-image: url("../images/backgrounds/h_img.jpg");
-    background-attachment: fixed;
 }
-#home_text {
+
+.hometext {
     text-align: center;
     color: white;
     margin-top: 400px;
     background-attachment: fixed;
 }
-#mouse {
+
+.mouse {
     text-align: center;
     padding: 100px;
 }
@@ -88,6 +91,10 @@ font-size: 30px;
     background-image: url("/images/backgrounds/c_image.jpg");
     height: 60vh;
 }
+.contacts h1{
+    text-align: center;
+}
+
 
 /*footer */
 .footer{

@@ -2,7 +2,7 @@
 
 # Project Name:
 
-- Delani Studio
+* Delani Studio
 ## Author Name
 [Chebet Eddah](https://github.com/batyrotich/)
 
@@ -11,17 +11,17 @@
 
  ## project setup instructions
 
- - [git clone project](https://github.com/batyrotich/Delani-studio)
+ * [git clone project](https://github.com/batyrotich/Delani-studio)
 
- - cd project into project folder.
- - open up project with editor: visualcode or atom respectively.
+ * cd project into project folder.
+ * open up project with editor: visualcode or atom respectively.
  ## Technologies used 
-   - HTML
-   - CSS
-   - Bootstrap
-   - Java script
-   - JQuery
-   - Git
+   * HTML
+   * CSS
+   * Bootstrap
+   * Java script
+   * JQuery
+   * Git
    - Visual studio code
 ## Link to live site on github
 [https://batyrotich.github.io/Delani-studio/](https://batyrotich.github.io/Delani-studio/)

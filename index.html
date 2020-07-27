@@ -11,16 +11,17 @@
 </head>
 <body>
     <!--Home-->
-<div id="row home">
-    <div id="col-md-12 home_text"> 
-           <img src="images/logo/logo.png">
-            <h1>WELCOME TO DELANI STUDIO</h1>
-            <h6>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT</h6>
-        <div id="col-md-12 mouse">
-            <img src="images/mouse_click.png" alt="mouse_click">
-            </div>
-          </div>  
+<div class="row home">
+    <div class="col-md-12 hometext">
+        <img src="images/logo/logo.png" alt="">
+        <h1 class="display-4">WELCOME <br><br> TO DELANI STUDIO</h1>
+        <P>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT</P>
     </div>
+    <div class="col-md-12 mouse">
+        <img src="images/mouse_click.png" alt="">
+    </div>
+</div>
+
 
     <!--ABOUT US-->
     <div id="aboutus">
@@ -203,8 +204,9 @@
                         <input type="email" class="form-control" name="EMAIL" id="email" placeholder="ENTER EMAIL" required style="background-color: transparent" style="text-emphasis-color: blue">
                     </div>
                 </div>
-                <textarea class="form-control" rows="6"  name="message" placeholder="Your message here..." required  style="background-color: transparent" style="text-emphasis-color:blue"> </textarea>
-                <br>
+                <textarea class="form-control" name="MERGE2" id="message"cols="90" rows="6"  placeholder="Your Text Here..." value=(document).getInnerHTML ></textarea>
+
+                    <br>
                 <button type="submit" id="submit" value="send" class="btn btn-primary">SUBMIT</button>
             </form>
         </div>
